@@ -1,5 +1,5 @@
 
-#HOW TO SETUP NETPLUG?
+#How to setup NetPlug?
         
         1.Buy a Digispark/ruberducky.
                 2.Put in the Digispark the Payload.ino or put the Payload.duck in the ruberducky.
