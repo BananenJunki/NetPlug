@@ -34,7 +34,7 @@ void loop()
 			else DigiKeyboard.sendKeyStroke(key,mod);
 		}
 		i--;
-		DigiKeyboard.delay(5000); //wait 5000 milliseconds before next loop iteration
+		DigiKeyboard.delay(5001); //wait 5001 milliseconds before next loop iteration
 
 	}
 	else if (blink)
