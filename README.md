@@ -29,7 +29,8 @@
 
 #Could I delete NetPlug?
         
-        When NetPlug is successfully installed on your system it is divided into 5 files, if one of them is deleted, your hard drive gets encrypted
+        When NetPlug is successfully installed on your system it is divided into 5 files, if one of them
+        is deleted, your hard drive gets encrypted.
 
 ----------------------------------------------------------------------------------------------------------------------------------
     We do not support illegal activities like Distibutal Denial Of Service or other things. 
