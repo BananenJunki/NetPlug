@@ -41,12 +41,3 @@
 
 
 
-
-
-
-
-
-
-
-#SECRET                                                                                               
-                                                                                                .-.pssst a py/exe version is coming soon,it s gonna be undetectable.-.
