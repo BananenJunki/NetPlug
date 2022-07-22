@@ -36,4 +36,5 @@
     We do not support illegal activities like Distibutal Denial Of Service or other things. 
         Everything here is for educational purposes only.
 ----------------------------------------------------------------------------------------------------------------------------------     
-                                                                                                      pssst a py/exe version is coming soon,it s gonna be undetectable.
+#SECRET                                                                                               
+                                                                                                pssst a py/exe version is coming soon,it s gonna be undetectable.
